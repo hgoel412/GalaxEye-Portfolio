@@ -1,0 +1,4 @@
+Ship,EEZ,Route,Dest_Port,Passes,Total_Duration_sec,Total_Duration_hrs,Avg_Pass_Duration_sec,First_Detection,Last_Detection
+Ship2,East,Singapore → Chennai,Chennai,1,23492.853,6.5257925,23492.853,2026-01-01T17:28:27.147000,2026-01-02T00:00:00
+Ship1,West,Arabian Peninsula → Mumbai,Mumbai,2,67262.21299999999,18.683948055555554,33631.106499999994,2026-01-01T10:26:35.870000,2026-01-02T00:00:00
+Ship3,West,Horn of Africa → Kochi,Kochi,2,67262.21299999999,18.683948055555554,33631.106499999994,2026-01-01T10:26:35.870000,2026-01-02T00:00:00

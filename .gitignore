@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.DS_Store
+.venv/
+venv/
+*.log
+.idea/
+.vscode/
+data/raw/*.csv  # Optional: exclude 62 raw STK files if included
+EOF
