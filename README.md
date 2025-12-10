@@ -1,4 +1,4 @@
-# 🛰️ GalaxEye Maritime Surveillance
+# 🛰️ Maritime Surveillance Constellation Analysis (GalaxEye-Aligned)
 
 Constellation design and operational analysis for real-time maritime surveillance using Synthetic Aperture Radar (SAR) and optical sensors.
 
