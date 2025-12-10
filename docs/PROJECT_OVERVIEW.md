@@ -1,4 +1,4 @@
-# GalaxEye Project Overview
+# Project Overview
 
 ## Mission
 Design and analyze a satellite constellation for real-time maritime surveillance of the Indian Exclusive Economic Zone (EEZ) and major ports.
